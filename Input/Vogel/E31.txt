@@ -1,0 +1,17 @@
+# fichier correct R2 D03
+
+3
+
+# joueurs
+2
+0 0 2 2
+200 -200 3 9
+
+
+# obstacles
+1
+0 0
+
+
+# balle
+0

@@ -1,0 +1,56 @@
+# fichier correct pour verifier le plus court chemin et les distances de securitee pour contourner les obstacles et les choix par default des joueurs
+
+10
+
+# joueurs
+4
+-380 -380 4 20
+380 380 4 20
+-380 380 4 0
+380 -380 4 0
+
+
+# obstacles
+34
+0 1
+1 1
+2 1 
+3 1
+5 1 
+6 1
+7 1
+8 1
+9 1
+
+1 3
+2 3 
+3 3 
+4 3
+5 3
+6 3
+7 3
+8 3
+
+0 5
+1 5
+2 5 
+3 5
+4 5
+6 5
+7 5
+8 5
+9 5
+
+0 7
+1 7
+2 7 
+3 7 
+4 7
+5 7
+7 7
+8 7
+
+
+
+# balle
+0

@@ -1,0 +1,41 @@
+# fichier correct pour verifier les joueurs prisonniers 
+
+10
+
+# joueurs
+4
+300 300 4 0 
+-300 -300 4 0
+-300 300 4 0
+300 -300 4 0
+
+
+
+
+# obstacles
+19
+4 0
+4 1
+4 2
+4 3
+4 4 
+4 5
+4 6
+4 7
+4 8
+4 9
+0 4
+1 4
+2 4
+3 4
+5 4
+6 4
+7 4
+8 4
+9 4
+
+
+
+
+# aucune balle
+0

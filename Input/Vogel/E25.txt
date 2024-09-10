@@ -1,0 +1,59 @@
+# fichier correct pour verifier le joueur prisonnier
+#et les qu'il ne se deplacent pas entre deux
+#obstacles positione en diagonale 
+
+10
+
+# joueurs
+4
+300 300 4 0 
+-300 -300 4 0
+-300 300 4 0
+300 -300 4 0
+
+
+
+
+# obstacles
+33
+4 0
+4 1
+4 2
+4 3
+4 5
+4 6
+4 7
+4 8
+4 9
+
+0 4
+1 4
+2 4
+3 4
+5 4
+6 4
+7 4
+8 4
+9 4
+
+5 0
+5 1
+5 2
+5 6
+5 7
+5 8
+5 9
+
+0 5
+1 5
+2 5
+3 5
+6 5
+7 5
+8 5
+9 5
+
+
+
+# aucune balle
+0

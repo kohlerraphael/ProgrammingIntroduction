@@ -1,0 +1,19 @@
+# fichier correct pour verifier les choix des joueurs = parametres p default
+
+10
+
+# joueurs
+4
+-380 -380 4 0
+380 380 4 0
+-380 380 4 0
+380 -380 4 0
+
+
+# obstacles
+0
+
+
+
+# balle
+0
